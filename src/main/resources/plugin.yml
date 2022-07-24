@@ -1,0 +1,8 @@
+name: PassivePhantoms
+version: '${project.version}'
+main: space.sanc.passivephantoms.PassivePhantomsPlugin
+api-version: 1.15
+prefix: PP
+authors: [ Sancires ]
+description: Turn phantoms into a passive mob.
+website: sanc.space
